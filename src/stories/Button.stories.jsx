@@ -38,3 +38,5 @@ Small.args = {
   size: 'small',
   label: 'Button',
 };
+
+throw new Error('story error')
