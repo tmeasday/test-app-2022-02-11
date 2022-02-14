@@ -39,4 +39,4 @@ Small.args = {
   label: 'Button',
 };
 
-throw new Error('story error')
+// throw new Error('story error')
