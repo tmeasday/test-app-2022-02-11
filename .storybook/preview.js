@@ -7,6 +7,6 @@ export const parameters = {
     },
   },
   chromatic: {
-    disableSnapshot: true,
+    // disableSnapshot: true,
   },
 };
