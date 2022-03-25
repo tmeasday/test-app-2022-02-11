@@ -6,6 +6,7 @@ export const parameters = {
       date: /Date$/,
     },
   },
+  chromatic: {
+    // disableSnapshot: true,
+  },
 };
-
-throw new Error('foo');
